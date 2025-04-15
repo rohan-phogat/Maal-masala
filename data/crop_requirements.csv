@@ -1,0 +1,41 @@
+Crop,Water_Availability,Water_Type,Min_Temp,Max_Temp,Min_Humi,Max_Humi,Season
+Rice,Very High/High,Fresh,20,35,70,90,Kharif
+Wheat,Medium-High/High,Fresh/Mix,10,25,50,80,Rabi/Zaid
+Maize,Medium-High/High,Fresh/Mix,20,35,50,80,Kharif/Zaid
+Pearl Millet,Very Low/Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,25,40,40,70,Kharif
+Sorghum,Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,25,40,40,70,Kharif
+Barley,Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,10,25,40,70,Kharif
+Finger Millet,Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,20,35,40,70,Kharif
+Mung Bean,Medium-Low/Medium-High,Fresh/Mix,20,35,50,80,Kharif/Zaid
+Chickpea,Medium-Low/Medium-High,Fresh/Mix,15,30,40,70,Rabi
+Lentil,Medium-Low/Medium-High,Fresh/Mix,15,30,40,70,Rabi
+Pigeon Pea,Medium-Low/Medium-High,Fresh,20,35,50,80,Kharif
+Black Gram,Medium-Low/Medium-High,Fresh,20,35,50,80,Kharif
+Field Pea,Medium-Low/Medium-High,Fresh,15,30,40,70,Rabi
+Groundnut,Medium-Low/Medium-High,Fresh,20,35,50,80,Kharif
+Sesame,Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,20,35,40,70,Kharif
+Soybean,Medium-Low/Medium-High,Fresh,20,35,50,80,Kharif
+Mustard,Medium-Low/Medium-High,Fresh/Mix,10,25,40,70,Rabi
+Sunflower,Medium-Low/Medium-High,Fresh/Mix,20,35,40,70,Kharif/Zaid
+Sugarcane,High/Very High,Fresh,20,35,60,85,Kharif
+Cotton,High/Very High,Fresh/Mix,20,35,50,80,Kharif
+Jute,High/Very High,Fresh,25,35,60,80,Kharif
+Tobacco,Medium-High/High,Fresh/Mix,20,35,50,80,Kharif/Rabi
+Potato,Medium-Low/Medium-High,Fresh,15,25,50,85,Rabi/Zaid
+Green Bean,Medium-Low/Medium-High,Fresh,20,30,50,80,Kharif/Zaid
+Kidney Bean,Medium-Low/Medium-High,Fresh,15,30,50,80,Rabi
+Cowpea,Medium-Low/Medium-High,Fresh,20,35,50,80,Kharif/Zaid
+Cluster Bean,Very Low/Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,25,40,30,60,Kharif
+Mango,Medium-High/High,Fresh,20,35,50,80,Kharif
+Banana,High/Very High,Fresh,20,35,60,90,Year-round
+Citrus,Medium-High/High,Fresh,15,30,50,80,Rabi/Zaid
+Guava,Medium-High/High,Fresh/Mix,20,35,50,80,Year-round
+Pomegranate,Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,20,35,40,70,Kharif/Zaid
+Grapes,Medium-High/High,Fresh,15,30,50,85,Zaid
+Papaya,High/Very High,Fresh,20,35,50,85,Year-round
+Pineapple,High/Very High,Fresh,20,35,60,90,Kharif
+Litchi,High/Very High,Fresh,20,35,70,90,Kharif
+Apple,Medium-Low/Medium-High,Fresh,10,25,50,80,Rabi
+Sapota,Medium-High/High,Fresh,20,35,40,70,Year-round
+Amla,Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,20,35,50,80,Rabi
+Ber,Very Low/Low/Medium-Low/Medium-High/High/Very High,Fresh/Mix,20,40,30,60,Zaid

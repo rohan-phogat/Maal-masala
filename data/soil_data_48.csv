@@ -1,0 +1,49 @@
+Soil_Type,Texture,Colour,N,P,K,pH
+Alluvial,Sandy,Brown,85,10,250,7.8
+Alluvial,Sandy,Black,88,11,255,7.7
+Alluvial,Sandy,Red,82,9,245,7.9
+Alluvial,Sandy,Yellowish,80,8,240,8.0
+Alluvial,Loamy,Brown,95,14,270,7.5
+Alluvial,Loamy,Black,98,15,275,7.4
+Alluvial,Loamy,Red,92,13,265,7.6
+Alluvial,Loamy,Yellowish,90,12,260,7.7
+Alluvial,Clayey,Brown,100,16,280,7.4
+Alluvial,Clayey,Black,103,17,285,7.3
+Alluvial,Clayey,Red,97,15,275,7.5
+Alluvial,Clayey,Yellowish,95,14,270,7.6
+Sandy,Sandy,Brown,55,4,170,8.5
+Sandy,Sandy,Black,58,5,175,8.4
+Sandy,Sandy,Red,52,3,165,8.6
+Sandy,Sandy,Yellowish,50,2,160,8.7
+Sandy,Loamy,Brown,65,8,190,8.2
+Sandy,Loamy,Black,68,9,195,8.1
+Sandy,Loamy,Red,62,7,185,8.3
+Sandy,Loamy,Yellowish,60,6,180,8.4
+Sandy,Clayey,Brown,70,10,200,8.1
+Sandy,Clayey,Black,73,11,205,8.0
+Sandy,Clayey,Red,67,9,195,8.2
+Sandy,Clayey,Yellowish,65,8,190,8.3
+Arid Brown,Sandy,Brown,60,5,180,8.4
+Arid Brown,Sandy,Black,63,6,185,8.3
+Arid Brown,Sandy,Red,57,4,175,8.5
+Arid Brown,Sandy,Yellowish,55,3,170,8.6
+Arid Brown,Loamy,Brown,70,9,200,8.1
+Arid Brown,Loamy,Black,73,10,205,8.0
+Arid Brown,Loamy,Red,67,8,195,8.2
+Arid Brown,Loamy,Yellowish,65,7,190,8.3
+Arid Brown,Clayey,Brown,75,11,210,8.0
+Arid Brown,Clayey,Black,78,12,215,7.9
+Arid Brown,Clayey,Red,72,10,205,8.1
+Arid Brown,Clayey,Yellowish,70,9,200,8.2
+Black,Sandy,Brown,90,12,260,7.6
+Black,Sandy,Black,93,13,265,7.5
+Black,Sandy,Red,87,11,255,7.7
+Black,Sandy,Yellowish,85,10,250,7.8
+Black,Loamy,Brown,100,16,280,7.3
+Black,Loamy,Black,103,17,285,7.2
+Black,Loamy,Red,97,15,275,7.4
+Black,Loamy,Yellowish,95,14,270,7.5
+Black,Clayey,Brown,105,18,290,7.2
+Black,Clayey,Black,108,19,295,7.1
+Black,Clayey,Red,102,17,285,7.3
+Black,Clayey,Yellowish,100,16,280,7.4

@@ -1,0 +1,7 @@
+water_availability,description
+Very Low,Less than 300 mm/season (minimal rain-fed or no irrigation)
+Low,300-500 mm/season (light irrigation or marginal rain-fed)
+Medium-Low,500-700 mm/season (moderate irrigation)
+Medium-High,700-1000 mm/season (good irrigation)
+High,1000-1500 mm/season (heavy irrigation e.g. for Rice)
+Very High,Above 1500 mm/season (flooded fields e.g. paddy systems)

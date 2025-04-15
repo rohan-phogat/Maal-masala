@@ -1,0 +1,5 @@
+Water_Type,Description,EC_Range_dS_per_m
+Fresh,Low salinity suitable for most crops,0-2
+Brackish,Moderate salinity for tolerant crops,2-4
+Saline,High salinity for very tolerant crops,Above 4
+Mix,"Combination of fresh and salty water (e.g., hard groundwater with canal dilution)",1-3
